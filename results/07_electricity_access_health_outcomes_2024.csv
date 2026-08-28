@@ -1,0 +1,5 @@
+"electricity_access_group","number_of_countries","average_electricity_access","average_life_expectancy","average_under5_mortality"
+"Low access (<50%)",15,29.37,62.00,75.55
+"Moderate access (50-79.9%)",29,62.27,65.42,50.98
+"High access (80-99.9%)",49,94.75,71.81,24.51
+"Universal access (100%)",122,100.00,78.40,9.05
