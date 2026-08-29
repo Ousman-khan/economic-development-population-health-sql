@@ -52,6 +52,11 @@ SQL analysis
 Python / Matplotlib
       ↓
 Results and visualizations
+      ↓
+Git version control
+      ↓
+GitHub repository
+```
 
 ## Key Findings
 
